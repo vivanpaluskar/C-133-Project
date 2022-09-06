@@ -1,0 +1,23 @@
+h3{
+    background-color: orange;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+}
+body{
+    background-size: cover;
+}
+.anc{
+    margin: 20px;
+    border-radius: 40%;
+    font-size: larger;
+}
+canvas{
+    border:2px solid black;
+}
+.an{
+    color:white;
+    background-color: black;
+    padding: 10px;
+    margin-left: 10px;
+}
